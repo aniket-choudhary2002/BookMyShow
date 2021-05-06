@@ -329,7 +329,7 @@ int main()
         case 5: 
         system("CLS");
         cout<<"\n\t\t\t\tThanks for Trying my software \n\n\t\t\t\t";
-        cout<<"\n\t\t\t\t Made by hemnang jiwnani\n\n\t\t\t\t";
+        cout<<"\n\t\t\t\t Made by Aniket choudhary\n\n\t\t\t\t";
         system("PAUSE");
         exit(0);
                 break;
